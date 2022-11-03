@@ -1,0 +1,25 @@
+body{
+    margin:20px;
+    display:flex;
+    justify-content: center;
+    margin-top:200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main{
+    width:500px;
+    padding:20px;
+    display:flex;
+    justify-content: space-around;
+    background-color: #A8DADC;
+    
+    border-bottom: 5px solid #457B9D;
+}
+.profil-pic{
+    width: 200px;
+}
+
+
+.text{
+    text-align: center;
+    margin-top: 15px;
+}
